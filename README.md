@@ -29,3 +29,6 @@
 - DBはgoogleSpreadSheat
 
 - opendataは？
+
+## bash
+- pip install gspread oauth2client pandas matplotlib
