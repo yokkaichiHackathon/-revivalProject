@@ -8,6 +8,7 @@ scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/au
 creds = ServiceAccountCredentials.from_json_keyfile_name('path/to/your/creds.json', scope)
 client = gspread.authorize(creds)
 
+
 # スプレッドシートを開く
 sheet = client.open('Your Spreadsheet Name').sheet1
 
