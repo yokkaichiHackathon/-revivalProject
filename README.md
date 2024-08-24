@@ -24,6 +24,9 @@
 
 - メインはpython
 
+- 利用フレームワークはDjango
+- Reactだのhtmlだのは必要になってくるかも？
+
 - コード管理はgithub
 
 - DBはgoogleSpreadSheat
