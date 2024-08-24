@@ -24,3 +24,15 @@ plt.title('Graph Title')
 plt.xlabel('X-axis Label')
 plt.ylabel('Y-axis Label')
 plt.show()
+
+
+
+
+''' 
+注意点
+'path/to/your/creds.json'は、ダウンロードしたJSONファイルのパスに置き換えてください。
+'Your Spreadsheet Name'は、アクセスしたいスプレッドシートの名前に置き換えてください。
+ColumnXとColumnYは、グラフ化したいデータの列名に置き換えてください。
+'''
+
+
